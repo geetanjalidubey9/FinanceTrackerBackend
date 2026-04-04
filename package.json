@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/geetanjalidubey9/FinanceTrackerBackend#readme",
   "devDependencies": {
+    "@prisma/client": "^7.6.0",
     "@types/express": "^5.0.6",
     "@types/node": "^25.5.2",
     "nodemon": "^3.1.14",
+    "prisma": "^7.6.0",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.2"
   },
